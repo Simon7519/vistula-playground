@@ -3,7 +3,7 @@ package org.vistula.adultage;
 public class AdultAgeProvider {
 
     public static int getAdultAge(String country){
-
+// komentarz
         if (country.equals("")) {
             throw new RuntimeException("Pusty kraj!");
         }

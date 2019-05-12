@@ -25,3 +25,4 @@ public class AdultAgeProviderTest {
         assert AdultAgeProvider.getAdultAge("") == 18;
     }
 }
+
